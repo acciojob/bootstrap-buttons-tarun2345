@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.bg{
+	background-color:yellow !important;
+	width:100vw;
+}
